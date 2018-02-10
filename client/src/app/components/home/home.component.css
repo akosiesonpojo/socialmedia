@@ -1,0 +1,54 @@
+h3{
+    text-align: center;
+    color:white;
+
+}
+p{
+    text-align: center;
+    color:white;
+}
+.jumbotron { 
+    /* The image used */
+    background-image: url("/assets/images/bg.png");
+
+    /* Set a specific height */
+    height: 400px; 
+
+   
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.thumbnail { 
+    /* The image used */
+    background-image: url("/assets/images/bgg.png");
+
+    /* Set a specific height */
+    height: 300px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 { 
+    /* The image used */
+    background-image: url("/assets/images/bg.png");
+
+    /* Set a specific height */
+    height: 200px; 
+    
+   
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
